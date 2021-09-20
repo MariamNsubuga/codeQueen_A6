@@ -1,0 +1,33 @@
+img {
+	border-radius: 5px 5px 0 0;
+}
+.card{
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width:40%;
+	display: flex;
+	flex-direction: row;
+	
+}
+
+.container{
+	padding-left: 100px;
+	padding-top: 50px;
+	display:flex;
+	flex-direction: column;
+	background-color: black;
+	align-content:flex-end;
+}
+h4{
+	color:darkmagenta;
+	font-size: 20px;
+	
+}
+body{
+	color:aqua;
+}
+
+p{
+	color:brown;
+	font-size: 30px;
+}
